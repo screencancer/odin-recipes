@@ -4,9 +4,21 @@
     font-size: 50px;
     background-color: red;
 }
-.testrecipe1{
+.list{
     text-align: center;
 }
 .body{
     background-color: beige;
+}
+.subtitle{
+text-align: center;
+}
+.hook{
+    text-align: center;
+}
+.subtitle.big{
+    font-family: cursive, Verdana, sans-serif;
+}
+.indexp{
+ font-weight: bold;   
 }
